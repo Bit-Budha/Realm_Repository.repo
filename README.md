@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BoukmanBananaBuddhaBastia
-- 👀 I’m interested in ... Front End Web Development 
-- 🌱 I’m currently learning ... Linux, HTML, CSS, Javascript 
+- 👋 Hi, I’m Bit_Budha.bio 
+- 👀 I’m interested in ... Penetration Testing 
+- 🌱 I’m currently learning ... Black Arch Linux, Python, Metasploit, and Nmap
 - 💞️ I’m looking to collaborate on ... Every and anything.
-- 📫 How to reach me ... @boukmanbananabuddhabastia on instagram or @_keg10_ on twitter.
+- 📫 How to reach me on ... LinkedIn https://www.linkedin.com/in/bastiabusiness?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
 BoukmanBananaBuddhaBastia/BoukmanBananaBuddhaBastia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
